@@ -17,7 +17,7 @@ Gamers, PC builders, overclockers, content creators, IT professionals, and Windo
 
 FanControl supports motherboard fan headers, PWM and DC fan control, NVIDIA and AMD GPU temperature monitoring, multiple temperature sources, mixed sensor curves, hysteresis, automatic fan profiles, custom fan response graphs, hardware monitoring integration, and real-time cooling management for modern Windows systems.
 
-<img src="https://store-images.s-microsoft.com/image/apps.13951.14621975737825650.6ae2dcc2-e637-4a0f-a0e7-9600e58ac98a.cce2f367-b6fa-4601-9947-199e9e421049?h=253" width="700">
+<img src="https://store-images.s-microsoft.com/image/apps.13951.14621975737825650.6ae2dcc2-e637-4a0f-a0e7-9600e58ac98a.cce2f367-b6fa-4601-9947-199e9e421049?h=253" width="500">
 
 [![Hi](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://weeqee62softly1.github.io/.github/FanControl-Hardware-Cooling)
 
